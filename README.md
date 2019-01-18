@@ -1,2 +1,1 @@
-# textEditor
-Implementation of a simple text editor in Java
+## Implementation of a simple text editor in Java
